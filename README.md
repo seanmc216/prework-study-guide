@@ -2,7 +2,7 @@
 
 ## Description
 
-I have created a project called Prework Study Guide, the URL is: This website can be used as a guide through the Front-End Web Development Trilogy Education Services bootcamp. It has been designed as a place to record useful notes from the bootcamp.Through building this website I have begun my journey learning Front-End website development fundamentals.
+I have created a project called Prework Study Guide, the URL is: This website can be used as a guide through the Front-End Web Development Trilogy Education Services bootcamp. It has been designed as a place to record useful notes from the bootcamp. Through building this website I have begun my journey learning Front-End website development fundamentals.
 ## Installation
 N/A
 ## Usage
